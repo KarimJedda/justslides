@@ -28,3 +28,8 @@ Feel free to adapt the paths as you wish.
 You need `pandoc` installed on your system. You can install pandoc by following the instructions [here](https://pandoc.org/installing.html).
 
 I've tested it with pandoc 3.1.8 on Ubuntu. 
+
+## Credits & inspiration
+
+- [sent](https://tools.suckless.org/sent/) 
+- [weenote](https://github.com/jed/weenote) 
