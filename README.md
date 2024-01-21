@@ -17,7 +17,9 @@ slide 2
 
 ```
 
-add your content then run `./generate.sh`. This will create a file called `output.html` with your presentation. An example is provided under `docs/index.html`
+add your content then run `./generate.sh`. This will create a file called `output.html` with your presentation, that's it. Iterate and enjoy. 
+
+An example is provided under `docs/index.html` if you need more inspiration.
 
 Feel free to adapt the paths as you wish but make sure to have all the media available under the right path. 
 
@@ -26,7 +28,7 @@ Feel free to adapt the paths as you wish but make sure to have all the media ava
 
 You need `pandoc` installed on your system. You can install pandoc by following the instructions [here](https://pandoc.org/installing.html).
 
-I've tested it with pandoc 3.1.8 on Ubuntu. 
+I've tested it with pandoc `3.1.8` on `Ubuntu`. 
 
 ## Credits & inspiration
 
