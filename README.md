@@ -15,11 +15,13 @@ slide 2
 
 ---
 
+```
+
 then run `./generate.sh`. This will create a file called `output.html` with your presentation. An example is provided under `example/output.html`
 
 Feel free to adapt the paths as you wish.
 
-```
+
 
 ## Prerequisites
 
