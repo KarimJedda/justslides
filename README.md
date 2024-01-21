@@ -1,6 +1,6 @@
 # justslides
 
-Create a file called `slides.txt` with following contents:
+Create a file called `slides.txt` with following contents, at the root of the directory:
 
 ```
 % Title
@@ -17,10 +17,9 @@ slide 2
 
 ```
 
-then run `./generate.sh`. This will create a file called `output.html` with your presentation. An example is provided under `example/output.html`
+add your content then run `./generate.sh`. This will create a file called `output.html` with your presentation. An example is provided under `docs/index.html`
 
-Feel free to adapt the paths as you wish.
-
+Feel free to adapt the paths as you wish but make sure to have all the media available under the right path. 
 
 
 ## Prerequisites

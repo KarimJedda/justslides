@@ -1,0 +1,112 @@
+% JUST SLIDES
+% Karim Jedda
+% 21 January 2024
+
+Presenting
+≠
+Writing
+
+---
+
+No time for
+formatting
+
+---
+
+No time for
+layouts
+
+---
+
+No time for
+*time*!
+
+---
+
+
+Talk *more*
+Write *less*
+
+---
+
+Nobody wants 
+to 
+read 😴
+
+---
+
+- one
+- two
+- three 
+
+---
+
+
+- one
+- two
+- <s>three</s> 
+
+---
+
+No boring 
+animation
+
+---
+
+Performance
+>>>
+Words
+
+---
+
+Experience
+matters
+
+---
+
+*not* slides 
+
+---
+
+Pictures?
+
+---
+
+![](Bubu.png )
+
+---
+
+JIFS & GIFS 
+![](tenor.gif )
+
+---
+
+Just 
+*WORKS*
+
+---
+
+Emojis? 👀
+
+---
+
+Using 
+🐼
+Pandoc
+
+---
+
+*html*
+or
+*pdf* 
+
+---
+
+
+Get it *today*
+(or tomorrow)
+*→* [justslides](https://github.com/KarimJedda/justslides) *←*
+
+---
+
+
